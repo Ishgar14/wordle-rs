@@ -7,6 +7,7 @@ Must have rust installed
 
 ```bash
 git clone https://github.com/Ishgar14/wordle-rs.git
+cd wordle-rs
 cargo build
 cargo run
 ```
